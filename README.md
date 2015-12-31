@@ -1,5 +1,9 @@
 # Pyllisp
 
+Note: This is an old file, and old repository. To see the new repository, go to http://github.com/cheery/lever
+
+This is left intact here for the reason that it is often not very nice to remove an URL from the internet.
+
 Sometimes I tend to search better ways to write and design computer programs. I like to do that kind of things when I reach the next software-induced frustration of the week. I tend to be frustrated a lot over software. Pyllisp is the manifestation of that search.
 
 I've realised it has reached a point that it presents some worthwhile ideas into language design. I wrote this README to funnel people into discovering these ideas.
